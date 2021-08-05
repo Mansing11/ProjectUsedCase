@@ -1,0 +1,8 @@
+The website should have a main page
+The main page should have Register user
+The main page should have Login user
+Register user should have user type as customer or vendor
+Login user should accept user name,password and user type as customer/vendor/admin
+After login for user type customer Dashboard for customer should be displayed
+After login for user type vendor Dashboard for vendor should be displayed
+After login for user type Admin Dashboard for Admin should be displayed
