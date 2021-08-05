@@ -6,3 +6,6 @@ Login user should accept user name,password and user type as customer/vendor/adm
 After login for user type customer Dashboard for customer should be displayed
 After login for user type vendor Dashboard for vendor should be displayed
 After login for user type Admin Dashboard for Admin should be displayed
+Customer Dashboard should have search,select item,add item to cart,delete item from cart,purchase
+Vendor Dashboard should have add item details,remove item details,update item details
+Admin dashboard approve user(customer or vendor),approve vendor,item details,view list of customers,view list of vendors
